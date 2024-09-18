@@ -1,0 +1,9 @@
+
+
+backend/node_modules/
+backend/secret-key.json
+frontend/node_modules/
+
+backend/.env
+frontend/.env
+
