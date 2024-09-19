@@ -10,10 +10,14 @@ This guide will walk you through setting up the project in your local environmen
 
 ## ScreenShots
 
-![Demo Image](Images/Screenshot 2024-09-19 054121.png)
-![Demo Image](Images/Screenshot 2024-09-19 054132.png)
-![Demo Image](Images/Screenshot 2024-09-19 054152.png)
-![Demo Image](Images/Screenshot 2024-09-19 054204.png)
+
+![Demo Image](Images/Screenshot%202024-09-19%20054121.png)
+
+![Demo Image](Images/Screenshot%202024-09-19%20054132.png)
+
+![Demo Image](Images/Screenshot%202024-09-19%20054152.png)
+
+![Demo Image](Images/Screenshot%202024-09-19%20054204.png)
 
 ## Project Overview
 
