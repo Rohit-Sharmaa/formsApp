@@ -6,7 +6,14 @@ This guide will walk you through setting up the project in your local environmen
 
 # Demo Video of Project
 
-this will
+- video link - https://drive.google.com/file/d/1fhuOI6HNW0ossvNyNQ6QDoi2ZOTu66wV/view
+
+## ScreenShots
+
+![Demo Image](images/Screenshot 2024-09-19 054121.png)
+![Demo Image](images/Screenshot 2024-09-19 054132.png)
+![Demo Image](images/Screenshot 2024-09-19 054152.png)
+![Demo Image](images/Screenshot 2024-09-19 054204.png)
 
 ## Project Overview
 
